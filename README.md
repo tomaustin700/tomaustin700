@@ -1,4 +1,10 @@
-### Hi there 👋
+# Tom Austin - @tomaustin700
+
+Hi, I'm Tom - I'm interested in all things DevOps and automation and I'm passionate about efficency and reliability. I'm currently the Lead Automation Engineer at [Streets Heaver](https://github.com/Streets-Heaver).
+
+### How to reach me 📫
+- I'm [@tomaustin700](https://twitter.com/tomaustin700) on twitter
+- Email me at tom@tomaustin.xyz
 
 <!--
 **tomaustin700/tomaustin700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
