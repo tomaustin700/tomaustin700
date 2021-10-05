@@ -1,6 +1,6 @@
 # Tom Austin - @tomaustin700
 
-Hi, I'm Tom - I'm interested in all things DevOps and automation and I'm passionate about efficency and reliability. I'm currently the Lead Automation Engineer at [Streets Heaver](https://github.com/Streets-Heaver).
+Hi, I'm Tom - I'm interested in all things DevOps and automation and I'm passionate about efficency and reliability. I'm currently the Lead DevOps Engineer at [Streets Heaver](https://github.com/Streets-Heaver).
 
 ### How to reach me 📫
 - I'm [@tomaustin700](https://twitter.com/tomaustin700) on twitter
